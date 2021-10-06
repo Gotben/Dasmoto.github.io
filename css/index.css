@@ -1,0 +1,41 @@
+h1 {
+    background-image: url("D:/Codecademy Feb Frontend/Dasmoto Arts & Crafts/images/pattern.webp");
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+}
+
+#brush {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+
+#frame {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+} 
+
+#paint {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
+
+span {
+    font-weight: bold;
+    color: blue;
+}
+
+p {
+    font-family: Helvetica;
+}
